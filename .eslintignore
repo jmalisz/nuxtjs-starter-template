@@ -1,0 +1,30 @@
+# Dependencies
+/node_modules
+
+# Testing
+/coverage
+/test-results/
+/playwright-report/
+/playwright/.cache/
+
+# Nuxt3
+.nuxt
+.nitro
+.cache
+.output
+
+# Production
+dist
+
+# Misc
+.DS_Store
+*.pem
+
+# Debug
+*.log*
+
+# Local env files
+.env
+
+# Typescript
+*.tsbuildinfo
